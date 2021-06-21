@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        
+  
+  <modelVersion>4.0.0</modelVersion>
+        
+  
+  <groupId>org.foi.nwtis.djockovic</groupId>
+        
+  
+  <artifactId>djockovic_zadaca_2</artifactId>
+        
+  
+  <version>1.0</version>
+        
+  
+  <packaging>pom</packaging>
+        
+  
+  <modules>
+                
+    
+    <module>djockovic-vjezba_03_2</module>
+                
+    
+    <module>djockovic-vjezba_06_1</module>
+          
+    
+    <module>djockovic_zadaca_2_2</module>
+    <module>djockovic_zadaca_2_1</module>
+  </modules>
+        
+  
+  <properties>
+                
+    
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+            
+  
+  </properties>
+    
+
+</project>
